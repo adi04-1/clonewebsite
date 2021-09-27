@@ -1,10 +1,10 @@
 function slideshow() {
   let slider = [
-    "Images/swiggy_intern_slide_image.png",
-    "Images/Student program_intern_slide_image.png",
+    "swiggy_intern_slide_image.png",
+    "Student program_intern_slide_image.png",
 
-    "Images/superhero_intern_slide_image.png",
-    "Images/fresher_intern_slide_image.png",
+    "superhero_intern_slide_image.png",
+    "fresher_intern_slide_image.png",
   ];
 
   let div = document.getElementById("slider");
